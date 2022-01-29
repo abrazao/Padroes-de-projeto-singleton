@@ -1,1 +1,1 @@
-# Padroes-de-projeto-singleton
+# Padroes-de-projeto-singleton. Utilização de Design Pattern
